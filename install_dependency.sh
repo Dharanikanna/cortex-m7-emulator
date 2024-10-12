@@ -1,0 +1,2 @@
+# toolchain gdb
+# QEMU emulator
